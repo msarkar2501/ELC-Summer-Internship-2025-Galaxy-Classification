@@ -41,10 +41,13 @@ The dataset is built by cross-matching three sources:
 - **GALEX-SDSS-WISE Legacy Catalog (GSWLC-A1)** — Multiwavelength photometry (UV + optical + IR)
 
 ---
+## Analysis of the Dataset
+
+![Sanity Plots](sanity_plots.png)
 
 ## Results
 
-![Sanity Plots](output.png)
+![Output Plot](output.png)
 
 ---
 
