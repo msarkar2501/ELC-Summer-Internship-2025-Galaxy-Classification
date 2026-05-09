@@ -40,8 +40,6 @@ The dataset is built by cross-matching three sources:
 - **Galaxy Zoo 2 Catalog** — Morphology vote fractions  
 - **GALEX-SDSS-WISE Legacy Catalog (GSWLC-A1)** — Multiwavelength photometry (UV + optical + IR)
 
-> ⚠️ Raw catalog files (`final_crossmatched.csv`, `final_gz2.csv`, `GSWLC-A1.csv`) exceed GitHub's 100 MB limit and are not included in this repository. See the References section for direct download links.
-
 ---
 
 ## Results
