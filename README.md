@@ -68,7 +68,7 @@ The dataset is built by cross-matching three sources:
 ## Requirements
 
 ```bash
-pip install torch torchvision astropy matplotlib pillow numpy pandas scikit-learn xgboost
+pip install torch torchvision astropy matplotlib pillow numpy pandas scikit-learn xgboost sep scipy tqdm
 ```
 
 ---
