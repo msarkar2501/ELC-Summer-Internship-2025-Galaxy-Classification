@@ -89,6 +89,11 @@ pip install torch torchvision astropy matplotlib pillow numpy pandas scikit-lear
    Salim et al. (2016). GALEX-SDSS-WISE Legacy Catalog of Galaxy Physical Properties.  
    MAST / STScI. [https://archive.stsci.edu/prepds/gswlc/](https://archive.stsci.edu/prepds/gswlc/)
 
+4. **Galaxy Zoo 2 — SDSS Photometric Parameters**  
+   Photometric Features queried from CasJobs SDSS
+   [https://skyserver.sdss.org/casjobs/](https://skyserver.sdss.org/casjobs/)  
+  
+
 ---
 
 ## Acknowledgements
