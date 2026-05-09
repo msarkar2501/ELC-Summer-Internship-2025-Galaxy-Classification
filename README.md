@@ -46,7 +46,7 @@ The dataset is built by cross-matching three sources:
 
 ## Results
 
-![Sanity Plots](sanity_plots.png)
+![Sanity Plots](output.png)
 
 ---
 
