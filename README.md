@@ -13,7 +13,7 @@ This project builds an end-to-end pipeline to automatically classify galaxy morp
 
 | Notebook | Description |
 |----------|-------------|
-| `1_Crossmatch.ipynb` | Cross-matches GZ2, GSWLC-A1, and photometric catalogs |
+| `1_Crossmatch.ipynb` | Cross-matches Galaxy Zoo 2 and GSWLC |
 | `2_Filter.ipynb` | Filters candidate galaxies by quality cuts |
 | `3_create_image_dataset.ipynb` | Builds labeled image crops from the GZ2 image archive |
 | `4_Sanity_check_dataset.ipynb` | Validates dataset quality and class balance |
