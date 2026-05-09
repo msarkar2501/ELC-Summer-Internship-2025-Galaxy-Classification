@@ -97,3 +97,7 @@ pip install torch torchvision astropy matplotlib pillow numpy pandas scikit-lear
 ## Acknowledgements
 
 This work was carried out under the ELC Summer Internship 2025 programme at Thapar Institute of Engineering and Technology.
+
+## Conflicts of Interest
+
+This work is the contribution of the author of this repository only.
